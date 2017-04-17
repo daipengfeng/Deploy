@@ -1,0 +1,189 @@
+.blue {
+  width: 154px;
+  height: 32px;
+  border: 1px solid #03A9F4;
+  background: #03A9F4;
+  color: #fff;
+}
+.orgin {
+  width: 164px;
+  height: 41px;
+  background: #FF9800;
+  border: 1px solid #FF9800;
+  color: #fff;
+}
+.navbar-default {
+  background-color: #03a9f4;
+  border-color: #03a9f4;
+  margin-bottom: 0;
+}
+.navbar-default .navbar-brand {
+  color: #fff;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+}
+.banner {
+  background: #03a9f4;
+  color: #fff;
+  text-align: center;
+}
+.banner a img {
+  border: 0;
+  margin-top: 80px;
+}
+.banner h1 {
+  margin-top: 80px;
+  font-size: 48px;
+}
+.banner p {
+  font-size: 20px;
+}
+.banner button {
+  background: #03a9f4;
+  height: 44px;
+  width: 192px;
+  border: 3px solid #fff;
+  margin-top: 5px;
+}
+.banner h2 {
+  font-size: 14px;
+  margin-bottom: 20%;
+}
+.banner h2 a {
+  color: #fff;
+  text-decoration: underline;
+}
+.main {
+  text-align: center;
+}
+.main h1 {
+  font-size: 40px;
+  margin-top: 5%;
+}
+.main p {
+  font-size: 16px;
+  margin-top: 3%;
+}
+.main p a {
+  color: #03A9F4;
+}
+.main h2 {
+  font-size: 16px;
+}
+.main h3 {
+  color: #AAA;
+  font-size: 14px;
+}
+.main h3 b {
+  font-weight: bold;
+  color: #333;
+}
+.main h3 span {
+  display: inline-block;
+  background: #7CB342;
+  width: 40px;
+  height: 10px;
+  border-radius: 5px 0 0 5px;
+  position: relative;
+}
+.main h3 span:after {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  background: #fff;
+  border-radius: 20px;
+}
+.nav-free {
+  background: #03a9f4;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+.nav-free ul li {
+  text-align: center;
+  margin-right: 30px;
+  float: left;
+  list-style: none;
+  line-height: 73px;
+}
+.nav-free ul li a {
+  color: #fff;
+}
+.main-table .Tier-table {
+  min-height: 500px;
+  width: 360px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-top: 20px;
+}
+.main-table .Tier-table ul {
+  width: 300px;
+  text-align: center;
+}
+.main-table .Tier-table ul li {
+  list-style: none;
+  padding: 20px 0;
+  border-bottom: 1px solid #ccc;
+}
+.main-table .Tier-table ul li a {
+  color: #333;
+  font-size: 16px;
+}
+.main-table .Tier-table ul li a span {
+  font-size: 26px;
+}
+.main-connect {
+  text-align: center;
+  background: #0277bd;
+  color: #fff;
+  margin-top: 2%;
+}
+.main-connect p {
+  margin-bottom: 3%;
+}
+.main-connect p a {
+  color: #fff;
+  text-decoration: underline;
+}
+.main-Name {
+  background: #263238;
+  color: #fff;
+  text-align: center;
+}
+.main-Name h1 {
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+.main-Namecheap {
+  background: #263238;
+}
+.main-Namecheap .white-div {
+  width: 360px;
+  height: 380px;
+  background: #fff;
+  margin-bottom: 20%;
+}
+.main-Namecheap .white-div ul {
+  width: 300px;
+  text-align: center;
+  margin-top: 20px;
+}
+.main-Namecheap .white-div ul li {
+  list-style: none;
+  padding: 15px 0;
+  border-bottom: 1px solid #ccc;
+}
+.main-Namecheap .white-div ul li a {
+  color: #333;
+  font-size: 16px;
+}
+.main-Namecheap .white-div ul li a b {
+  font-size: 26px;
+}
+.main-SSL .right-ssl {
+  text-align: center;
+}
+.main-SSL .col-md-5 img{
+  width: 100%;
+}
